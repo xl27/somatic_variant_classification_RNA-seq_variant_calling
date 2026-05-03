@@ -10,3 +10,6 @@ vcf_filtered/
 *.bed
 *.csv
 *.txt
+__pycache__/
+*.pyc
+*.ipynb
