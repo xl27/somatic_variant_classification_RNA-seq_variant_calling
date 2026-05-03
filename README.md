@@ -2,9 +2,9 @@
 
 ## Structure
 
-- `preprocessing/`: core shell, R, Python, and preprocessing pipeline scripts
-- `workflows/`: Nextflow workflow definitions for feature generation and filtering
+- `preprocessing/`: preprocessing pipeline scripts
 - `modeling/`: machine learning model training and evaluation scripts for somatic variant prediction
+- `workflows/`: Nextflow workflow definitions for feature generation, filtering and modeling
 
 ## Preprocessing overview
 
